@@ -1,6 +1,6 @@
 //配置地址 https://henryqinup.github.io/JK/Q2WForever.json
 {
-"spider":"https://henryqinup.github.io/JK/HenryQin.jar",
+"spider":"https://henryqinup.github.io/JK/HenryQin.jar;md5;8a21559775ba9aa84480c3e68956089c",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9oZW5yeXFpbnVwLmdpdGh1Yi5pby9KSy9NeURJWS9saXZlLnR4dA=="]}]}],
 
