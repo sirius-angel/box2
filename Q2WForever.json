@@ -1,3 +1,4 @@
+// https://henryqinup.github.io/JK/Q2WForever.json
 {
   "spider":"https://henryqinup.github.io/JK/HenryQin.jar;md5;8fe09cee9e4cf48eb956d77065b68852",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9oZW5yeXFpbnVwLmdpdGh1Yi5pby9KSy9NeURJWS9saXZlLnR4dA=="]}]}],
