@@ -1,3 +1,4 @@
+// 修复 Playlist
 {
   "name": "骚火电影",
   "url": "https://shdy2.com",
@@ -14,13 +15,18 @@
   "jiequqian": "空",
   "jiequhou": "空",
   "jiequshuzuqian": "class=\"v_img\">",
-  "jiequshuzuhou": "</p>",
+  "jiequshuzuhou": "/div>",
   "tupianqian": "data-original=\"",
   "tupianhou": "\"",
   "biaotiqian": "title=\"",
   "biaotihou": "\"",
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
+
+  //新版Biubiu参数：副标题 (不需要的话，就不填写或者删除副标题2个字段也可以。)
+  "fubiaotiqian": "v_note\">",
+  "fubiaotihou": "<",
+
   
   "sousuoqian": "/search.php?searchword=",
   "sousuohou": "&limit=500",
@@ -33,7 +39,7 @@
   "ssjiequqian": "空",
   "ssjiequhou": "空",
   "ssjiequshuzuqian": "<div class=\"v_img\">",
-  "ssjiequshuzuhou": "<div class=\"v_note\">",
+  "ssjiequshuzuhou": "/div>",
   "sstupianqian": "data-original=\"",
   "sstupianhou": "\"",
   "ssbiaotiqian": "title=\"",
@@ -41,19 +47,19 @@
   "sslianjieqian": "href=\"",
   "sslianjiehou": "\"",
   
-  "bfshifouercijiequ": "0",
-  "bfjiequqian": "空",
-  "bfjiequhou": "空",
-  "bfjiequshuzuqian": "id=\"play_link\"",
-  "bfjiequshuzuhou": "</ul>",
+  "bfshifouercijiequ": "1",
+  "bfjiequqian": "id=\"play_link\">",
+  "bfjiequhou": "</ul>",
+  "bfjiequshuzuqian": "<li",
+  "bfjiequshuzuhou": "/li>",
   
-  "zhuangtaiqian": "class=\"v_note\">",
-  "zhuangtaihou": "</div>",
+  "zhuangtaiqian": "h1><p>",
+  "zhuangtaihou": "/ 导演",
   "daoyanqian": "导演：",
   "daoyanhou": "/ 主演",
   "zhuyanqian": "主演：",
   "zhuyanhou": "</p>",
-  "juqingqian": "class=\"p_txt show_part\">",
+  "juqingqian": "show_part\">",
   "juqinghou": "<br",
   
   "bfyshifouercijiequ": "0",
