@@ -256,15 +256,81 @@ Now直播331台,https://api.leonardpark.dev/live/now/331
 澳视澳门 (720p),http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 澳门1 (720p),http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 澳门2 (720p),http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
-中视新闻 HD,http://seb.sason.top/sc/zsxw_fhd.m3u8
-华视新闻资讯 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8
-台视新闻 HD,http://seb.sason.top/sc/tsxw_fhd.m3u8
-民视新闻 HD,http://seb.sason.top/sc/msxw_fhd.m3u8
-东森新闻 HD,http://seb.sason.top/sc/dsxw_fhd.m3u8
-东森财经新闻 HD,http://seb.sason.top/sc/dscjxw_fhd.m3u8
-三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
-三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
+[BD]中天新闻,https://epg.pm/stream/f31179de0ccdbfc10f213b1a9d11d9ae275ad4f35d93a31b4216719ee4388f60.m3u8
+[HD]中天新闻-1,https://epg.pm/stream/68ba78adbb28efc7d4aba7234d1c380b9ee45b7a0aed01da42aafac16697d54d.php
+[BD]中天娱乐台,https://epg.pm/stream/4659eaf8638c56467e1ce5d0e902e2a50f65672c1191082e4b654f926218ff67.m3u8
+[BD]中天娱乐,https://epg.pm/stream/ed825c2c72ac5f908c2d7c6cc1f9ebb118f63bd0a9e8c0b7727cdc366133a09e.m3u8
+[SD]Sports Tonight (576p) [Not 24/7],https://epg.pm/stream/7c240b92710b30e933e9aa9401fcd8bf2a1a30404ceea53619d10832ec818f77.m3u8
+[VGA]TV7 Elmaarifa [Geo-blocked],https://epg.pm/stream/9c040b6ae548c25966d6bd91a0f0d999bba4516b1b1428d9931b567bcef6125f.m3u8
+[VGA]TV7 Azzurra (270p) [Not 24/7],https://epg.pm/stream/d8947eb97f9ca7b6b8ee617613dd57289bc73af204acfbc9d139b340987a6ab4.m3u8
+[VGA]TV7 Bekescsaba (360p),https://epg.pm/stream/4876fd54b24f3a3e328ea584297aa3754f68be7d876cda51d31e510f1992bbf0.m3u8
+[VGA]TV7 Triveneta (270p) [Not 24/7],https://epg.pm/stream/c3989ad3da8496015800a6e01ccbeb702fce141fe7610480bc472a20e344b0ec.m3u8
+[VGA]TV7 Bordeaux (720p),https://epg.pm/stream/b53b1c8488fa7e02b5cdb0672ed4fc892d929f227cd0a713d0aa2705c69afbab.m3u8
+[SD]TV7 Colmar (576p),https://epg.pm/stream/6a30dd8d74a1ab3bf6f7d52f3f539b5a4334519b2d056260d518c753376fafad.m3u8
+[VGA]TV7 Benevento (288p) [Not 24/7],https://epg.pm/stream/659e910c9ad3617fcf40fd945be87e7b9f3cec22eedb892e8cdb21db4a54f155.m3u8
+[VGA]TV7 News (270p) [Not 24/7],https://epg.pm/stream/99ac8ce848716ebf71080551b87487d9196c45affc4eae00fbea66f376a76379.m3u8
+[HD]民視,https://epg.pm/stream/7665ebec2d214500bebec4193dc12a80a7581aed580a4568bd444b388c93569b.php
+[BD]民视新闻,https://epg.pm/stream/271f44cdbafc0a16705d640791c256569605c0948b505021df516a62883b7928.php
+[HD]民视新闻台,https://epg.pm/stream/2682e24fc253df9ec059e1f7ec4060d5906d5c5995694817b8a9d54d477d8f3c.php
+[BD]民视新闻台@@1,https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8
+[BD]民视新闻@@1,https://epg.pm/stream/9dbf5d5dd1d158c4dfd5622c86643d4d768447f4f75f505442254c076342e54d.m3u8
+[HD]民視旅遊,https://epg.pm/stream/dea3c086f0084e3b8e35a820ece62459455433adefe59941a06fa88f14d474ee.php
+[HD]民視旅遊,https://epg.pm/stream/e81be8d062f68f76f5b8f62003ff4cb8783a224ee5a90211a75f6341981e37db.php
+[HD]民视旅游,https://epg.pm/stream/83ec1b3ab81da69ff6c3db81b45e5838c740634a28c82f68376f44eecd6d3563.php
+[HD]民视旅游台,https://epg.pm/stream/8b1dd9fc86d73c546cb5dd77f918b9e23793cae3b7665c6d26d0690b4b49d996.php
+[HD]民视影剧,https://epg.pm/stream/b18260d5fc2f9efb28bfec92cfc6cd2cd5a65b5d6470f9b4980e9963a04b4b90.php
+[HD]民视影剧台,https://epg.pm/stream/e89daf8df952c5419365bafc7b7efbfff69b36e073b7ae0d2b8664aeba8984c6.php
+[HD]民視影劇,https://epg.pm/stream/b220b657833c7a3c015c68da33b127faaee1a6609ce1a604fe3f851ba96c8b34.php
+[HD]民視影劇,https://epg.pm/stream/794cd14e15d3076f4364c886ca4f6fe3c5cce1c3df897c2b80415f2082446e9e.php
+[HD]民视综艺台,https://epg.pm/stream/3d54ed839bfb57330973d186703a6b01f7a1858cb37475be558fb91d1f2da3ec.php
+[HD]民視綜藝,https://epg.pm/stream/2f63f05ff01bb88ee8261d580b034656ed602c2c286279989970014e5124a92d.php
+[HD]民视综艺台,https://epg.pm/stream/e19099bee07c618ae80d8ac5e65ecab556379e9c848c603de02aee21517e5b92.php
+[HD]民视台湾台,https://epg.pm/stream/f5cf1c8c84abaf71681f7af26c62507c528950bf9d0e8829e9c96322fdfee503.php
+[BD]CTV (720p),https://epg.pm/stream/2889d670bc8d4065d01320a6c6ce667c38299602ccd47a370ca2b69d9c61a629.m3u8
+[HD]民視第一,https://epg.pm/stream/cdc4939706c1ef0c615cf0d04b74eefbdf2e881ccf26e12f0060fb4a90830972.php
+[HD]民視第一,https://epg.pm/stream/5d3c46f60359ab4e5081bac6a04b5fa15f09bac724d40d5b764d4243321cf1aa.php
+[HD]民视第一台,https://epg.pm/stream/34c68a60ddf4bcc486cd433c2c72a9b2b0758797f2d1a8fa18d7d0e4b9761bcc.php
+[HD]民视第一台,https://epg.pm/stream/a2450ba4edbafbba4e1fe29437a2ddff1110bd89df4f3d972755674a1364eb90.php
+[VGA]NDTV,https://epg.pm/stream/bd93e796035ba8eeb8e55c98b73b956b3eb3b6ff655bd9d0eeaf5670de004ef6.m3u8
+[BD]网路流行音樂電台,https://epg.pm/stream/2d6a2c1b68b89510ce55ebca51ff9e7f7a6bc40cde77b072db602836cdfb1203.m3u8
+[BD]東森新聞,https://epg.pm/stream/1bfeefbda0ef3dba5ffd0134ab551e6b29cb43e2853039c5b68cdf14aafbbdf1.m3u8
+[HD]东森新闻-1,https://epg.pm/stream/c8621da5d311aa34e7281b64bec8f141bfaad8786dd836d533054d9bf46cc7b9.php
+[HD]MTV,https://epg.pm/stream/67332852719485444d13a6a7b35857b11c86ddf7e7fa42e0265d1a3c8cc7af68.m3u8
+[SD]MTV,https://epg.pm/stream/9adca6defba36f574e02b6f06379e15172f77f90c24f52e341c22122c7562c24.m3u8
+[HD]MTV Spankin New(台灣版),https://epg.pm/stream/1e50ce18bed45c5ccaeb366b50170c8015e77aca038f8f71d12a049c0584c504.m3u8
+[HD]MTV WMA(台灣版),https://epg.pm/stream/876db05f1d00cd5e72f7db4e425cfc723b1ca4d74e64b57993dab117172d96bd.m3u8
+[HD]東森財經新聞@@1,rtmp://59.124.75.150/sat/tv571
+[HD]东森财经-1,https://epg.pm/stream/b2ed5c7047cf73ef9be80e450b995aec8075d976436ebe442613dbd854bbdbc0.php
+[HD]東森財經新聞@@1,rtmp://59.124.75.150:1935/sat/tv571
+[BD]東森財經新聞-1,https://epg.pm/stream/2542667bd5a4c00882e4275d2713961009aa17f0397831e1830f3ebd3de6ae6d.php
+[BD]東森財經新聞@@4,https://epg.pm/stream/969b2881b59d6fa152d43ce33edc60cb2531f5d660ee9353ced7be8e4d5c92aa.m3u8
+[BD]東森財經新聞,https://epg.pm/stream/60191992cd871ab795529c91ed3f84f3c27d4b272257750c34513b0265ec7dee.m3u8
+[BD]東森財經新聞,https://epg.pm/stream/8ae9925c4c20b3bbb0eabb43facbc74782dcc9aa57398cbfff02f5b14d912e00.m3u8
+[HD]東森財經新聞,rtmp://59.124.75.138/sat/tv571
+[BD]東森幼幼,https://epg.pm/stream/836b222791e6465e1a60680f4890d0b02b44957c92882eec2bb6047908efcd1e.m3u8
+[BD]东森美洲@@2,https://epg.pm/stream/fa1f8a9f5d354522b55267c1c31655f7051d4429a23f87aac700197ef5273177.m3u8
+[HD]原住民频道,https://epg.pm/stream/dca936cdba26ae6ed66d3622715e654b7f15a3430e9369d5af88be7fd3e8c4d1.m3u8
+[HD]a原民台,https://epg.pm/stream/41919317648f1c6a67707dd1a462084eef8d8def27bc1d7111013e60ed61c10d.m3u8
+[BD]原民台,https://epg.pm/stream/363dac7053ddf6f80e281700ece7622e511092c933d9c36dab54cf33b01087d5.m3u8
+[BD]求索纪录,https://epg.pm/stream/277e49dd8a5ea3b7fd8e6408261d1333ef6b17fb4fdb927f560c03e3b7916388.m3u8
+[BD]东森洋片台,https://epg.pm/stream/655f5320af612f89c279d48c560c121301bd98ae9b3341485a67afe01c35a4e4.m3u8
+[BD]东森超视,https://epg.pm/stream/b32227564dcd06f9db3d68eb52a54e41c32984287d24fa5bfd113b8ed7726ecf.m3u8
+[BD]东森超视,https://epg.pm/stream/35f8a3d41dfed46149793dd05d432348b3718048a4031465d3245330b03a9a77.m3u8
+[HD]東森超視 HD,rtmp://59.124.75.138/sat/tv331
+[HD]东森超视@@2,rtmp://59.124.75.150/sat/tv331
+[BD]東森超視,https://epg.pm/stream/01262e87505917eb11f3c00b44f94bf207c1aed6c47b7277e4b37216c318c8fb.m3u8
+[HD]33 東森超視,rtmp://59.124.75.138:1935/sat/tv331
+[HD]三立综合台,https://epg.pm/stream/21c571991bad0b1ad05bb37a96e825cd03a43dfc4718ed07c23889868b86aa97.php
+[SD]CGTN Documentary (576p),https://epg.pm/stream/395df8172af3c711799f7a5e2d6cbc31d54e320a3e559105f8c579e714cbf5c6.m3u8
+[SD]CGTN Documentary,https://epg.pm/stream/2bfc905f45dc1e0e30b8cc52d27685af8bea8dd2497bfcf7f540ae0dbed2db60.m3u8
+[SD]CGTN DOCUMENTARY,https://epg.pm/stream/fa65e4e43414c22375bfcb479861ee4b845427c8dba617f7dd372549510ee753.m3u8
+[SD]CGTN Documentary ,https://epg.pm/stream/783b24269139b91ad293acbde7bf5a93769f6fa0e613cf9e86e2c78c8bd66ae8.m3u8
+[VGA]9XM (480p),https://epg.pm/stream/5cbbab8cc6e87ae3f8cf55c68a52d39fbe094e454911f057f6c968f66fc3caf3.m3u8
+[VGA]9XM (480p),https://epg.pm/stream/1d03e7a753045d43559053bd20713032274e2ce35d537d2d6ef2898ef4526db0.m3u8
+[VGA]iNEWS (1080p) [Not 24/7],https://epg.pm/stream/86b2e767a710fe3c819b78bcf2305d4ea1127f46fc61121fa6619c6ccdb130d7.m3u8
+[BD]三立iNews,https://epg.pm/stream/17b9026c3c8b88f7d16f6cbbd7593d9d375fcb4ed6d796991d34ed84d280e61d.m3u8
+[HD]三立iNEWS-1,https://epg.pm/stream/53267293c2d590385fd8c655b84d3d396813aab146d56ad2540d6460dd8dc591.php
+[BD]三立iNEWS-1,https://epg.pm/stream/567ec3c3df98ae15d61f84993df4c3ce31785ae4d76ea4fb57a25fc192cec634.php
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://stream.guihet.com/t/ifeng2.php?id=1?zgangd
 凤凰资讯,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
