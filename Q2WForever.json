@@ -1,7 +1,7 @@
 // https://henryqinup.github.io/JK/Q2WForever.json
 {
-  "spider":"https://henryqinup.github.io/JK/HenryQin.jar;md5;2fa165c9aa72ada6ab74a3dedb58ff6b",
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9oZW5yeXFpbnVwLmdpdGh1Yi5pby9KSy9NeURJWS9saXZlLnR4dA=="]}]}],
+  "spider":"https://henryqinup.github.io/JK/HenryQin.jar;md5;06ed1a662fc19e4ea22f60f02770f4b6",
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcWlhb2ppL2phci9yYXcvYnJhbmNoL21haW4vemIudHh0"]}]}],
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   
 "sites":[
